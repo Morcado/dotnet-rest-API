@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using RestAPI.Data.Repositories;
 using System;
 
 namespace RestAPI.API
@@ -21,6 +22,8 @@ namespace RestAPI.API
         {
             services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
             services.AddControllers();
+
+            services.AddScoped<IVehiculosRepository, VehiculosRepository>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

@@ -24,3 +24,10 @@ C:\Users\oagonzalez\source\repos\RestAPI\RestAPI.API\obj\Debug\net5.0\RestAPI.AP
 C:\Users\oagonzalez\source\repos\RestAPI\RestAPI.API\obj\Debug\net5.0\RestAPI.API.genruntimeconfig.cache
 C:\Users\oagonzalez\source\repos\RestAPI\RestAPI.API\bin\Debug\net5.0\AutoMapper.dll
 C:\Users\oagonzalez\source\repos\RestAPI\RestAPI.API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\oagonzalez\source\repos\RestAPI\RestAPI.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\oagonzalez\source\repos\RestAPI\RestAPI.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\oagonzalez\source\repos\RestAPI\RestAPI.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\oagonzalez\source\repos\RestAPI\RestAPI.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\oagonzalez\source\repos\RestAPI\RestAPI.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\oagonzalez\source\repos\RestAPI\RestAPI.API\bin\Debug\net5.0\RestAPI.Data.dll
+C:\Users\oagonzalez\source\repos\RestAPI\RestAPI.API\bin\Debug\net5.0\RestAPI.Data.pdb

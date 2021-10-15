@@ -1,0 +1,15 @@
+C:\Users\oagonzalez\source\repos\RestAPI\RestAPI.Data\bin\Debug\net5.0\RestAPI.Data.deps.json
+C:\Users\oagonzalez\source\repos\RestAPI\RestAPI.Data\bin\Debug\net5.0\RestAPI.Data.runtimeconfig.json
+C:\Users\oagonzalez\source\repos\RestAPI\RestAPI.Data\bin\Debug\net5.0\RestAPI.Data.runtimeconfig.dev.json
+C:\Users\oagonzalez\source\repos\RestAPI\RestAPI.Data\bin\Debug\net5.0\RestAPI.Data.dll
+C:\Users\oagonzalez\source\repos\RestAPI\RestAPI.Data\bin\Debug\net5.0\ref\RestAPI.Data.dll
+C:\Users\oagonzalez\source\repos\RestAPI\RestAPI.Data\bin\Debug\net5.0\RestAPI.Data.pdb
+C:\Users\oagonzalez\source\repos\RestAPI\RestAPI.Data\obj\Debug\net5.0\RestAPI.Data.csproj.AssemblyReference.cache
+C:\Users\oagonzalez\source\repos\RestAPI\RestAPI.Data\obj\Debug\net5.0\RestAPI.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oagonzalez\source\repos\RestAPI\RestAPI.Data\obj\Debug\net5.0\RestAPI.Data.AssemblyInfoInputs.cache
+C:\Users\oagonzalez\source\repos\RestAPI\RestAPI.Data\obj\Debug\net5.0\RestAPI.Data.AssemblyInfo.cs
+C:\Users\oagonzalez\source\repos\RestAPI\RestAPI.Data\obj\Debug\net5.0\RestAPI.Data.csproj.CoreCompileInputs.cache
+C:\Users\oagonzalez\source\repos\RestAPI\RestAPI.Data\obj\Debug\net5.0\RestAPI.Data.dll
+C:\Users\oagonzalez\source\repos\RestAPI\RestAPI.Data\obj\Debug\net5.0\ref\RestAPI.Data.dll
+C:\Users\oagonzalez\source\repos\RestAPI\RestAPI.Data\obj\Debug\net5.0\RestAPI.Data.pdb
+C:\Users\oagonzalez\source\repos\RestAPI\RestAPI.Data\obj\Debug\net5.0\RestAPI.Data.genruntimeconfig.cache
