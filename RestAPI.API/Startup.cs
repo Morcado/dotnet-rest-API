@@ -1,5 +1,8 @@
+using CourseLibrary.API.DbContexts;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.AspNetCore.Http;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
@@ -23,7 +26,9 @@ namespace RestAPI.API
             services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
             services.AddControllers();
 
-            services.AddScoped<IVehiculosRepository, VehiculosRepository>();
+            services.AddScoped<IPeliculasRepository, PeliculasRepository>();
+
+            services.AddDbContext<CineContext>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
