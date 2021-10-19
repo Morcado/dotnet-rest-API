@@ -30,5 +30,6 @@ namespace RestAPI.Data.Entities
         public Director Director { get; set; }
 
         public Guid IdDirector { get; set; }
+        //fecha
     }
 }

@@ -20,7 +20,6 @@ namespace RestAPI.Data.Migrations
                 {
                     table.PrimaryKey("PK_Directores", x => x.Id);
                 });
-
             migrationBuilder.CreateTable(
                 name: "Peliculas",
                 columns: table => new
