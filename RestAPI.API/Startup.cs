@@ -27,6 +27,7 @@ namespace RestAPI.API
             services.AddControllers();
 
             services.AddScoped<IPeliculasRepository, PeliculasRepository>();
+            services.AddScoped<IDirectoresRepository, DirectoresRepository>();
 
             services.AddDbContext<CineContext>();
         }
