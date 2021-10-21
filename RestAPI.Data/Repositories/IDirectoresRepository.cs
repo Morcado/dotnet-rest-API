@@ -14,5 +14,6 @@ namespace RestAPI.Data.Repositories
         IEnumerable<Director> ObtenerDirectores();
         void CrearDirector(Director director);
         public void Guardar();
+        public bool ExisteDirector(Guid idDirector);
     }
 }

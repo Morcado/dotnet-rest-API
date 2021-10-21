@@ -46,5 +46,14 @@ namespace RestAPI.Data.Repositories
         {
             return _context.Directores.ToList();
         }
+
+        public bool ExisteDirector(Guid idDirector)
+        {
+            if (idDirector == Guid.Empty)
+            {
+                throw new ArgumentNullException(nameof(idDirector));
+            }
+            return _context.Directores.Any(d => d.Id == idDirector);
+        }
     }
 }

@@ -52,13 +52,11 @@ namespace RestAPI.API.Controllers
 
             var directorParaMostrar = _mapper.Map<DirectorDto>(directorCreado);
 
-            return CreatedAtRoute("ObtenerDirector", 
-                new
+            return CreatedAtRoute("ObtenerDirector", new
             {
                 idDirector = directorParaMostrar.Id
-            }, directorParaMostrar);
-
-            //return Ok();
+            }, 
+            directorParaMostrar);
         }
     }
 }
