@@ -39,6 +39,17 @@ namespace RestAPI.API
             {
                 app.UseDeveloperExceptionPage();
             }
+            else
+            {
+                app.UseExceptionHandler(appBuilder =>
+                {
+                    appBuilder.Run(async context =>
+                    {
+                        context.Response.StatusCode = 500;
+                        await context.Response.WriteAsync("A ocurrido un error, intente más tarde");
+                    });
+                });
+            }
 
             app.UseRouting();
 
